@@ -42,6 +42,8 @@ Critterer.Preloader.prototype = {
         this.load.image('background', 'img/background.png');
         this.load.image('btnPause', 'img/hud/pause.png');
 	    this.load.image('panel', 'img/hud/pause-modal.png');
+	    this.load.image('restart', 'img/hud/restart-icon.png');
+	    this.load.image('menu', 'img/hud/menu-icon.png');
     },
 
     /**
