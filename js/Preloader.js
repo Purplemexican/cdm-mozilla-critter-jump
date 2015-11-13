@@ -44,8 +44,6 @@ Critterer.Preloader.prototype = {
 	    this.load.image('panel', 'img/hud/pause-modal.png');
 	    this.load.image('restart_btn', 'img/hud/restart-icon.png');
 	    this.load.image('menu_btn', 'img/hud/menu-icon.png');
-
-
     },
 
     /**
